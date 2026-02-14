@@ -31,5 +31,27 @@
     "role_title": "",
     "user_id": "u_14e4c01e-4f3a-4e39-b641-738504ec3fae",
     "created_at": "2026-02-14T19:22:32.379Z"
+  },
+  "u_b6046b2d-249a-4def-b961-5ddbd7c1c943": {
+    "first_name": "Dhruvi",
+    "last_name": "Shah",
+    "email": "dhruvi.shahus21@gp.com",
+    "company_domain": "gp.com",
+    "verified": true,
+    "verification_method": "otp",
+    "role_title": "",
+    "user_id": "u_b6046b2d-249a-4def-b961-5ddbd7c1c943",
+    "created_at": "2026-02-14T19:33:30.416Z"
+  },
+  "u_abfd3fb3-0893-4c6d-bf93-6e64637a03f5": {
+    "first_name": "fdsa",
+    "last_name": "fds",
+    "email": "fsa@gs.com",
+    "company_domain": "gs.com",
+    "verified": true,
+    "verification_method": "otp",
+    "role_title": "",
+    "user_id": "u_abfd3fb3-0893-4c6d-bf93-6e64637a03f5",
+    "created_at": "2026-02-14T20:55:47.194Z"
   }
 }
